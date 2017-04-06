@@ -1,0 +1,6 @@
+﻿  main.c
+d:\sandbox\sam\float_alt\float_alt\main.c(28): warning C4013: 'memset' undefined; assuming extern returning int
+d:\sandbox\sam\float_alt\float_alt\main.c(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\sandbox\sam\float_alt\float_alt\main.c(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  float_alt.vcxproj -> D:\sandbox\sam\float_alt\Debug\float_alt.exe
+  float_alt.vcxproj -> D:\sandbox\sam\float_alt\Debug\float_alt.pdb (Partial PDB)
